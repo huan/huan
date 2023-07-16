@@ -1,5 +1,5 @@
 
-Mr. Huan Li is a serial entrepreneur, [active angel investor](http://pre-angel.com/peoples/zhuohuan-li/) with strong technology background. He is a widely recognized technical leader on conversational AI and open source cloud architectures. Huan is a [GitHub Star](https://stars.github.com/profiles/huan/), top open-source contributor in both US([#4](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/united_states.md)) and China([#7](https://opensource.win/huan/)), co-authored guide books ["Chatbot 0 to 1"](https://item.jd.com/12630213.html) and ["Concise Handbook of TensorFlow 2"](https://item.jd.com/12980534.html) and has been recognized by Microsoft, Google, and Tencent as [MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003061), [GDE](https://developers.google.com/community/experts/directory/profile/profile-huan-li), and [TVP](https://cloud.tencent.com/tvp/138). He is a Chatbot Architect and speaks regularly at technical conferences around the world. Find out more about his experiences at <https://www.linkedin.com/in/zixia/>
+Mr. Huan Li is a serial entrepreneur, [active angel investor](http://pre-angel.com/peoples/zhuohuan-li/) with a strong technology background. He is a widely recognized technical leader in conversational AI and open-source cloud architectures. Huan is a [GitHub Star](https://stars.github.com/profiles/huan/), top open-source contributor in both US([#4](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/united_states.md)) and China([#7](https://opensource.win/huan/)), co-authored guide books ["Chatbot 0 to 1"](https://item.jd.com/12630213.html) and ["Concise Handbook of TensorFlow 2"](https://item.jd.com/12980534.html) and has been recognized by Microsoft, Google, and Tencent as [MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003061), [GDE](https://developers.google.com/community/experts/directory/profile/profile-huan-li), and [TVP](https://cloud.tencent.com/tvp/138). He is a Chatbot Architect and regularly speaks at technical conferences worldwide. Please find out more about his experiences at <https://www.linkedin.com/in/zixia/>
 
 [![Wechaty](https://wechaty.js.org/img/wechaty-logo.svg)](https://wechaty.js.org)
 
@@ -15,7 +15,7 @@ Mr. Huan Li is a serial entrepreneur, [active angel investor](http://pre-angel.c
 
 </div>
 
-Huan is the creator and core developer of [Wechaty](https://wechaty.js.org) [![Wechaty GitHub Stars](https://img.shields.io/github/stars/wechaty/wechaty.svg?style=social&label=)](https://github.com/wechaty/wechaty/stargazers/). Wechaty is a Conversational RPA SDK for chatbot makers. With only 6 lines of code, you can create a bot on the most popular IMs like [WeChat](https://wechaty.js.org/docs/puppet-providers/xp/), [Whatsapp](https://wechaty.js.org/docs/puppet-providers/whatsapp/), [WeCom](https://wechaty.js.org/docs/puppet-services/wxwork/), [Gitter](https://wechaty.js.org/docs/puppet-providers/gitter/), [QQ](https://wechaty.js.org/docs/puppet-providers/oicq/), [etc](https://wechaty.js.org/docs/puppet-providers).
+Huan is the creator and core developer of [Wechaty](https://wechaty.js.org) [![Wechaty GitHub Stars](https://img.shields.io/github/stars/wechaty/wechaty.svg?style=social&label=)](https://github.com/wechaty/wechaty/stargazers/). Wechaty is a Conversational RPA SDK for chatbot makers. With only six lines of code, you can create a bot on the most popular IMs like [WeChat](https://wechaty.js.org/docs/puppet-providers/xp/), [Whatsapp](https://wechaty.js.org/docs/puppet-providers/whatsapp/), [WeCom](https://wechaty.js.org/docs/puppet-services/wxwork/), [Gitter](https://wechaty.js.org/docs/puppet-providers/gitter/), [QQ](https://wechaty.js.org/docs/puppet-providers/oicq/), [etc.](https://wechaty.js.org/docs/puppet-providers)
 
 Some numbers for the Wechaty project:
 
@@ -37,7 +37,7 @@ Below are his contributions ([PRs](https://github.com/pulls?q=is%3Apr+author%3Ah
 - ♏️ <https://github.com/wechaty/getting-started> - A Starter Project Template for Wechaty works out-of-the-box
 - ♏️ <https://github.com/wechaty/ha> - High Available (HA) Wechaty is a Load Balance for providing High Availability for Wechaty Chatbot by spreading requests across multiple WeChat individual accounts.
 - ♏️ <https://github.com/wechaty/vorpal> - CLI for Chatbot - Extensible Commands for ChatOps, Powered by Vorpal.
-- ♏️ <https://github.com/huan/file-box> - Pack a File into Box for easy move/transfer between servers no matter of where it is.(local, remote url, or cloud storage)
+- ♏️ <https://github.com/huan/file-box> - Pack a File into Box for easy move/transfer between servers no matter where it is. (local, remote url, or cloud storage)
 - ♏️ <https://github.com/wechaty/matrix-appservice> - Wechaty [Matrix] Application Services Bridge
 - ©️ <https://github.com/microsoft/botframework-sdk> [![BotFramework](https://img.shields.io/github/stars/microsoft/botframework-sdk.svg?style=social&label=)](https://github.com/microsoft/botframework-sdk/stargazers/) Bot Framework provides the most comprehensive experience for building conversation applications. ([PR](https://github.com/microsoft/botframework-sdk/pulls?q=is%3Apr+author%3Ahuan))
 - ©️ <https://github.com/matrix-org/matrix-js-sdk> [![Matrix JS SDK](https://img.shields.io/github/stars/matrix-org/matrix-js-sdk.svg?style=social&label=)](https://github.com/matrix-org/matrix-js-sdk/stargazers/) Matrix Client-Server SDK for JavaScript ([PR](https://github.com/matrix-org/matrix-js-sdk/pulls?q=is%3Apr+author%3Ahuan))
@@ -46,7 +46,7 @@ Below are his contributions ([PRs](https://github.com/pulls?q=is%3Apr+author%3Ah
 
 - ♏️ <https://github.com/wechaty/friday> - Friday is an Assistant BOT Built on Wechaty for Serving our Community
 - ♏️ <https://github.com/kaiyuanshe/osschat> - Apache Open Source Software Chat BOT
-- ♏️ <https://github.com/wechaty/chat-drive> - Chat Drive is a conversational storage solution that allows you to save files from the WeChat room, and search & access them anytime by talking to our chatbot.
+- ♏️ <https://github.com/wechaty/chat-drive> - Chat Drive is a conversational storage solution that allows you to save files from the WeChat room and search & access them anytime by talking to our chatbot.
 - ♏️ <https://github.com/Gcaufy/wechaty-voteout> - Wechaty voteout plugin
 - ©️ <https://github.com/juzibot/qiji-bot> - Qiji Bot is a chatbot for Qiji. ([PR](https://github.com/juzibot/qiji-bot/pulls?q=is%3Apr+author%3Ahuan))
 
@@ -55,15 +55,16 @@ Below are his contributions ([PRs](https://github.com/pulls?q=is%3Apr+author%3Ah
 - ♏️ <https://github.com/snowkylin/tensorflow-handbook> [![Tensorflow Handbook](https://img.shields.io/github/stars/snowkylin/tensorflow-handbook.svg?style=social&label=)](https://github.com/snowkylin/tensorflow-handbook/stargazers/) 简单粗暴 TensorFlow 2 | A Concise Handbook of TensorFlow 2 | 一本简明的 TensorFlow 2 入门指导教程
 - ©️ <https://github.com/tensorflow/tensorflow> [![Google TensorFlow](https://img.shields.io/github/stars/tensorflow/tensorflow.svg?style=social&label=)](https://github.com/tensorflow/tensorflow/stargazers/) An Open Source Machine Learning Framework for Everyone ([PR](https://github.com/tensorflow/tensorflow/pulls?q=is%3Apr+author%3Ahuan))
 - ©️ <https://github.com/NVIDIA/nvidia-docker> [![Nvidia Docker](https://img.shields.io/github/stars/NVIDIA/nvidia-docker.svg?style=social&label=)](https://github.com/NVIDIA/nvidia-docker/stargazers/) Build and run Docker containers leveraging NVIDIA GPUs ([PR](https://github.com/NVIDIA/nvidia-docker/pulls?q=is%3Apr+author%3Ahuan))
-- ©️ <https://github.com/ivanseidel/IAMDinosaur> [![IAMDinosaur](https://img.shields.io/github/stars/ivanseidel/IAMDinosaur.svg?style=social&label=)](https://github.com/ivanseidel/IAMDinosaur/stargazers/) An Artificial Inteligence to teach Google's Dinosaur to jump cactus ([PR](https://github.com/ivanseidel/IAMDinosaur/pulls?q=is%3Apr+author%3Ahuan))
-- ©️ <https://github.com/zaidalyafeai/Swift4TF> - A set of notebooks explaining swift for tensorflow optimized to run in Google Collaboratory. ([PR](https://github.com/zaidalyafeai/Swift4TF/pulls?q=is%3Apr+author%3Ahuan))
+- ©️ <https://github.com/tensorflow/tfjs-examples/> [![TFJS Examples](https://img.shields.io/github/stars/tensorflow/tfjs-examples.svg?style=social&label=)](https://github.com/tensorflow/tfjs-examples/stargazers/) Add native JavaScript(TypeScript) to replace translation.py ([PR](https://github.com/tensorflow/tfjs-examples/pulls?q=is%3Apr+author%3Ahuan))
+- ©️ <https://github.com/ivanseidel/IAMDinosaur> [![IAMDinosaur](https://img.shields.io/github/stars/ivanseidel/IAMDinosaur.svg?style=social&label=)](https://github.com/ivanseidel/IAMDinosaur/stargazers/) An Artificial Intelligence to teach Google's Dinosaur to jump cactus ([PR](https://github.com/ivanseidel/IAMDinosaur/pulls?q=is%3Apr+author%3Ahuan))
+- ©️ <https://github.com/zaidalyafeai/Swift4TF> - A set of notebooks explaining Swift for tensorflow optimized to run in Google Collaboratory. ([PR](https://github.com/zaidalyafeai/Swift4TF/pulls?q=is%3Apr+author%3Ahuan))
 - ©️ <https://github.com/Azure-Samples/cognitive-services-quickstart-code> - Code Examples used by the Quickstarts in the Cognitive Services Documentation ([PR](https://github.com/Azure-Samples/cognitive-services-quickstart-code/pulls?q=is%3Apr+author%3Ahuan))
 - ©️ <https://github.com/thunlp/Chinese_Rumor_Dataset> - 中文谣言数据 ([PR](https://github.com/thunlp/Chinese_Rumor_Dataset/pulls?q=is%3Apr+author%3Ahuan))
 - ©️ <https://github.com/CasterWx/python-girlfriend-mood> - Analyze her mood through her girlfriend's words ·女朋友聊天时的情绪波动图谱，没女朋友的可自用(雾）。 ([PR](https://github.com/CasterWx/python-girlfriend-mood/pulls?q=is%3Apr+author%3Ahuan))
 
 ## Community
 
-- ♏️ <https://github.com/wechaty/wechaty.js.org> - Wechaty Official Website for News, Blogs, Contributor Profiles, and Documentations.
+- ♏️ <https://github.com/wechaty/wechaty.js.org> - Wechaty's Official Website for News, Blogs, Contributor Profiles, and Documentation.
 - ♏️ <https://github.com/wechaty/bot5> - BOT5 Club
 - ♏️ <https://github.com/zixia/bbs> - 大话西游 BBS
 - ©️ <https://github.com/google/season-of-docs> - Supporting materials for Google's Season of Docs 2021 ([PR](https://github.com/google/season-of-docs/pulls?q=is%3Apr+author%3Ahuan))
@@ -137,7 +138,7 @@ Below are his contributions ([PRs](https://github.com/pulls?q=is%3Apr+author%3Ah
 - ©️ <https://github.com/toji/gl-matrix> [![GL Matrix](https://img.shields.io/github/stars/toji/gl-matrix.svg?style=social&label=)](https://github.com/toji/gl-matrix/stargazers/) Javascript Matrix and Vector library for High Performance WebGL apps ([PR](https://github.com/toji/gl-matrix/pulls?q=is%3Apr+author%3Ahuan))
 - ©️ <https://github.com/jtlapp/node-cleanup> - installs custom cleanup handlers that run on exiting node ([PR](https://github.com/jtlapp/node-cleanup/pulls?q=is%3Apr+author%3Ahuan))
 - ©️ <https://github.com/sanack/node-jq> Node.js wrapper for jq ([PR](https://github.com/sanack/node-jq/pulls?q=is%3Apr+author%3Ahuan))
-- ©️ <https://github.com/indexzero/ps-tree> - Sometimes you cannot kill child processes like you would expect, this a feature of UNIX. ([PR](https://github.com/indexzero/ps-tree/pulls?q=is%3Apr+author%3Ahuan))
+- ©️ <https://github.com/indexzero/ps-tree> - Sometimes, you cannot kill child processes as expected; this is a feature of UNIX. ([PR](https://github.com/indexzero/ps-tree/pulls?q=is%3Apr+author%3Ahuan))
 - ©️ <https://github.com/wwalker/ssh-find-agent> - Tool to find already running ssh-agent compatible agents ([PR](https://github.com/wwalker/ssh-find-agent/pulls?q=is%3Apr+author%3Ahuan))
 - ©️ <https://github.com/zgq354/weibo-rss> - cake 把某人最近的微博转换为 RSS 格式输出 ([PR](https://github.com/zgq354/weibo-rss/pulls?q=is%3Apr+author%3Ahuan))
 - ©️ <https://github.com/Submersible/node-python-bridge> - Node.js to Python bridge sparklessnakerocketsparkles ([PR](https://github.com/Submersible/node-python-bridge/pulls?q=is%3Apr+author%3Ahuan))
