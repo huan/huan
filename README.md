@@ -15,7 +15,7 @@ Mr. Huan Li is a serial entrepreneur and [active angel investor](http://pre-ange
 
 </div>
 
-Huan is the creator and core developer of [Wechaty](https://wechaty.js.org) [![Wechaty GitHub Stars](https://img.shields.io/github/stars/wechaty/wechaty.svg?style=social&label=)](https://github.com/wechaty/wechaty/stargazers/). Wechaty is a Conversational RPA SDK for chatbot makers. With only six lines of code, you can create a bot on the most popular IMs like [WeChat](https://wechaty.js.org/docs/puppet-providers/xp/), [Whatsapp](https://wechaty.js.org/docs/puppet-providers/whatsapp/), [WeCom](https://wechaty.js.org/docs/puppet-services/wxwork/), [Gitter](https://wechaty.js.org/docs/puppet-providers/gitter/), [QQ](https://wechaty.js.org/docs/puppet-providers/oicq/), [etc.](https://wechaty.js.org/docs/puppet-providers)
+Huan is the creator and core developer of [Wechaty](https://github.com/wechaty) [![Wechaty GitHub Stars](https://img.shields.io/github/stars/wechaty/wechaty.svg?style=social&label=)](https://github.com/wechaty/wechaty/stargazers/). Wechaty is a Conversational RPA SDK for chatbot makers. With only six lines of code, you can create a bot on the most popular IMs like [WeChat](https://wechaty.js.org/docs/puppet-providers/xp/), [Whatsapp](https://wechaty.js.org/docs/puppet-providers/whatsapp/), [WeCom](https://wechaty.js.org/docs/puppet-services/wxwork/), [Gitter](https://wechaty.js.org/docs/puppet-providers/gitter/), [QQ](https://wechaty.js.org/docs/puppet-providers/oicq/), [etc.](https://wechaty.js.org/docs/puppet-providers)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=wechaty/wechaty&type=Date)](https://star-history.com/#wechaty/wechaty&Date)
 
@@ -39,7 +39,7 @@ Below are his contributions ([PRs](https://github.com/pulls?q=is%3Apr+author%3Ah
 - ♏️ <https://github.com/wechaty/getting-started> - A Starter Project Template for Wechaty works out-of-the-box
 - ♏️ <https://github.com/wechaty/ha> - High Available (HA) Wechaty is a Load Balance for providing High Availability for Wechaty Chatbot by spreading requests across multiple WeChat individual accounts.
 - ♏️ <https://github.com/wechaty/vorpal> - CLI for Chatbot - Extensible Commands for ChatOps, Powered by Vorpal.
-- ♏️ <https://github.com/huan/file-box> - Pack a File into Box for easy move/transfer between servers no matter where it is. (local, remote url, or cloud storage)
+- ♏️ <https://github.com/huan/file-box> - Pack a File into the Box for easy move/transfer between servers no matter where it is. (local, remote url, or cloud storage)
 - ♏️ <https://github.com/wechaty/matrix-appservice> - Wechaty [Matrix] Application Services Bridge
 - ©️ <https://github.com/microsoft/botframework-sdk> [![BotFramework](https://img.shields.io/github/stars/microsoft/botframework-sdk.svg?style=social&label=)](https://github.com/microsoft/botframework-sdk/stargazers/) Bot Framework provides the most comprehensive experience for building conversation applications. ([PR](https://github.com/microsoft/botframework-sdk/pulls?q=is%3Apr+author%3Ahuan))
 - ©️ <https://github.com/matrix-org/matrix-js-sdk> [![Matrix JS SDK](https://img.shields.io/github/stars/matrix-org/matrix-js-sdk.svg?style=social&label=)](https://github.com/matrix-org/matrix-js-sdk/stargazers/) Matrix Client-Server SDK for JavaScript ([PR](https://github.com/matrix-org/matrix-js-sdk/pulls?q=is%3Apr+author%3Ahuan))
