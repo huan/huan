@@ -1,7 +1,7 @@
 
 Mr. Huan Li is a serial entrepreneur and [active angel investor](http://pre-angel.com/peoples/huan-li/) with a strong technology background. He is a widely recognized technical leader in conversational AI and open-source cloud architectures. Huan is a [GitHub Star](https://stars.github.com/profiles/huan/), top open-source contributor in both US([#4](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/united_states.md)) and China([#7](https://opensource.win/huan/)), co-authored guide books ["Chatbot 0 to 1"](https://item.jd.com/12630213.html) and ["Concise Handbook of TensorFlow 2"](https://item.jd.com/12980534.html) and has been recognized by Microsoft, Google, and Tencent as [MVP](https://mvp.microsoft.com/en-US/mvp/profile/aafc915e-661b-e811-8106-3863bb2e0320), [GDE](https://developers.google.com/community/experts/directory?text=huan%20li), and [TVP](https://cloud.tencent.com/tvp/138). He is a Chatbot Architect and regularly speaks at technical conferences worldwide. Please find out more about his experiences at <https://www.linkedin.com/in/huan42/>
 
-[![Wechaty](https://wechaty.js.org/img/wechaty-logo.svg)](https://wechaty.js.org)
+[![Wechaty](https://wechaty.js.org/img/wechaty-logo.svg)](https://github.com/wechaty)
 
 <div align="center">
 
